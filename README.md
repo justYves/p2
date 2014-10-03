@@ -17,5 +17,8 @@ Demo recorded with Jing to come.
 ## Details for teaching team
 Extra Challenges Attempt? 
 
+## Source xkcd password explanation
+http://www.explainxkcd.com/wiki/index.php/936:_Password_Strength
+
 ## Outside code
 N/A

@@ -1,0 +1,19 @@
+#My custom CSS
+
+<style type = "text/css">
+tr
+{
+margin:0;
+padding:0;
+}
+td
+{
+margin:0;
+padding:0;
+}
+table
+{
+cellspacing:0;
+cellpadding:0;
+}
+</style>
