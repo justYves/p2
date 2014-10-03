@@ -7,18 +7,22 @@
 This is the second Project for CSCIE-15. The task is to create an xkcd style password generator as follow: 
 *Landing page includes a description of your app and what a xkcd password is (assume an unfamiliar audience).
 *Form inputs to specify:
-1.How many words to use.
-2.Whether to include a number.
-3.Whether to include a special symbol (for example, @).
+- How many words to use.
+- Whether to include a number.
+- Whether to include a special symbol (for example, @).
 
 ## Demo
 Demo recorded with Jing to come. 
 
 ## Details for teaching team
-Extra Challenges Attempt? 
+The number of words by default is 4. I am planning on adding error checkings.
 
-## Source xkcd password explanation
-http://www.explainxkcd.com/wiki/index.php/936:_Password_Strength
+## To do List
+- Work on the CSS to make it prettier
+- Clean the mark up
+- Attempt the Challenges
 
-## Outside code
-N/A
+
+## Outside code/Source
+Source of xkcd password explanation: http://www.explainxkcd.com/wiki/index.php/936:_Password_Strength
+Source of the words: https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english.txt
