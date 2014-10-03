@@ -24,5 +24,5 @@ The number of words by default is 4. I am planning on adding error checkings.
 
 
 ## Outside code/Source
-Source of xkcd password explanation: http://www.explainxkcd.com/wiki/index.php/936:_Password_Strength
+Source of xkcd password explanation: http://www.explainxkcd.com/wiki/index.php/936:_Password_Strength  <br>
 Source of the words: https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english.txt
