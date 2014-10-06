@@ -1,0 +1,16 @@
+
+
+.jumbotron {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+
+.form-horizontal {
+  max-width: 500px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.alert alert alert-info{
+  max-width: 500px;
+}
