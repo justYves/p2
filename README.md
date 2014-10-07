@@ -12,7 +12,7 @@ This is the second Project for CSCIE-15. The task is to create an xkcd style pas
 - Whether to include a special symbol (for example, @).
 
 ## Demo
-Demo recorded with Jing to come. 
+http://screencast.com/t/vg8nTt20X
 
 ## Details for teaching team
 The number of words by default is 4. I am planning on adding error checkings.
